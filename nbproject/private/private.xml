@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Souloh/Documents/NetBeansProjects/GestionReservation/src/GUI/ChambreForm.java</file>
+            <file>file:/C:/Users/Souloh/Documents/NetBeansProjects/GestionReservation/src/GUI/Statistiques2Form.java</file>
+            <file>file:/C:/Users/Souloh/Documents/NetBeansProjects/GestionReservation/src/service/ChambreService.java</file>
+            <file>file:/C:/Users/Souloh/Documents/NetBeansProjects/GestionReservation/src/GUI/Main.java</file>
+            <file>file:/C:/Users/Souloh/Documents/NetBeansProjects/GestionReservation/src/GUI/ReservationForm.java</file>
+            <file>file:/C:/Users/Souloh/Documents/NetBeansProjects/GestionReservation/src/entities/Client.java</file>
+            <file>file:/C:/Users/Souloh/Documents/NetBeansProjects/GestionReservation/src/entities/Reservation.java</file>
+            <file>file:/C:/Users/Souloh/Documents/NetBeansProjects/GestionReservation/src/GUI/StatistiquesForm.java</file>
+            <file>file:/C:/Users/Souloh/Documents/NetBeansProjects/GestionReservation/src/GUI/Authentification.java</file>
+            <file>file:/C:/Users/Souloh/Documents/NetBeansProjects/GestionReservation/src/entities/Chambre.java</file>
+            <file>file:/C:/Users/Souloh/Documents/NetBeansProjects/GestionReservation/src/service/UtilisateurService.java</file>
+            <file>file:/C:/Users/Souloh/Documents/NetBeansProjects/GestionReservation/src/service/ClientService.java</file>
+            <file>file:/C:/Users/Souloh/Documents/NetBeansProjects/GestionReservation/src/service/CategorieService.java</file>
+            <file>file:/C:/Users/Souloh/Documents/NetBeansProjects/GestionReservation/src/entities/Categorie.java</file>
+            <file>file:/C:/Users/Souloh/Documents/NetBeansProjects/GestionReservation/src/GUI/ClientForm.java</file>
+            <file>file:/C:/Users/Souloh/Documents/NetBeansProjects/GestionReservation/src/GUI/CategorieForm.java</file>
+            <file>file:/C:/Users/Souloh/Documents/NetBeansProjects/GestionReservation/src/GUI/UtilisateurForm.java</file>
+            <file>file:/C:/Users/Souloh/Documents/NetBeansProjects/GestionReservation/src/connexion/Connexion.java</file>
+            <file>file:/C:/Users/Souloh/Documents/NetBeansProjects/GestionReservation/src/service/ReservationService.java</file>
+            <file>file:/C:/Users/Souloh/Documents/NetBeansProjects/GestionReservation/src/entities/Utilisateur.java</file>
+        </group>
+    </open-files>
+</project-private>
